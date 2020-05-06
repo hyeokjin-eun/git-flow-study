@@ -13,6 +13,6 @@ Branch | Branch의미 | Branch기간
 ## Git Flow 흐름
 ![우아한테크 참고][logo]
 
-[logo]: https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html "To go"
+[logo]: https://woowabros.github.io/img/2017-10-30/git-flow_overall_graph.png "To go"
 
 출처 : [우아한테크 참고](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
