@@ -1,5 +1,5 @@
 # git-flow-study
-Git-Flow 학습을 위한 Repository (우아한 테크 참고)
+Git-Flow 학습을 위한 Repository ([우아한테크 참고](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html))
 
 ## Branch 의미
 Branch | Branch의미
